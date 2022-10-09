@@ -2963,3 +2963,282 @@ FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Simone\\AppD
 2022-09-28 10:56:57,111 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
 2022-09-28 10:57:00,094 [Dummy-1] INFO: loaded 10 dictionaries in 3.007s
 2022-09-28 10:57:03,058 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-09-29 13:35:40,246 [MainThread] INFO: setting language to: en_US
+2022-09-29 13:35:42,550 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-09-29 13:35:42,551 [Dummy-1] INFO: loading system: English Stenotype
+2022-09-29 13:35:43,018 [Dummy-1] INFO: setting machine: Keyboard
+2022-09-29 13:35:43,715 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-09-29 13:35:44,616 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-09-29 13:35:44,633 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-09-29 13:35:44,634 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-09-29 13:35:44,635 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-09-29 13:35:44,636 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-09-29 13:35:44,639 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-09-29 13:35:44,641 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-09-29 13:35:44,642 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-09-29 13:35:44,645 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-09-29 13:35:44,646 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-09-29 13:35:44,648 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-09-29 13:35:47,735 [Dummy-1] INFO: loaded 10 dictionaries in 3.102s
+2022-09-29 13:44:47,544 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-03 12:03:38,721 [MainThread] INFO: setting language to: en_US
+2022-10-03 12:03:42,120 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-03 12:03:42,121 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-03 12:03:42,769 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-03 12:03:43,563 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-03 12:03:44,593 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-03 12:03:44,596 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-03 12:03:44,596 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-03 12:03:44,597 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-03 12:03:44,598 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-03 12:03:44,600 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-03 12:03:44,606 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-03 12:03:44,610 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-03 12:03:44,618 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-03 12:03:44,621 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-03 12:03:44,828 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-03 12:03:47,963 [Dummy-1] INFO: loaded 10 dictionaries in 3.366s
+2022-10-04 07:48:32,510 [MainThread] INFO: setting language to: en_US
+2022-10-04 07:48:34,415 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-04 07:48:34,416 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-04 07:48:34,868 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-04 07:48:35,626 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-04 07:48:35,633 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-04 07:48:36,567 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-04 07:48:36,568 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-04 07:48:36,570 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-04 07:48:36,573 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-04 07:48:36,577 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-04 07:48:36,578 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-04 07:48:36,580 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-04 07:48:36,582 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-04 07:48:36,590 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-04 07:48:36,592 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-04 07:48:39,659 [Dummy-1] INFO: loaded 10 dictionaries in 3.092s
+2022-10-04 08:31:03,794 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-04 08:31:06,710 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-04 08:31:08,663 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-04 08:35:31,392 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-04 08:35:33,313 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-04 08:35:34,548 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-04 18:20:47,223 [Dummy-1] INFO: stopping `plover_cards_hook` extension
+2022-10-04 18:20:47,246 [Dummy-1] ERROR: engine quit failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 143, in run
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 307, in _quit
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 157, in _stop
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 303, in _stop_extensions
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\plover_hook.py", line 38, in stop
+    self.card_suggestions.save()
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 12, in f
+    return func(self, *args, **kwargs)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 37, in save
+    with self.PATH.open("wb") as f:
+  File "pathlib.py", line 1222, in open
+  File "pathlib.py", line 1078, in _opener
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Simone\\AppData\\Local\\plover\\plover\\plover_cards\\card_suggestions.pickle'
+2022-10-04 18:20:55,421 [Dummy-1] INFO: stopping `ninja_extension` extension
+2022-10-04 18:21:23,394 [MainThread] INFO: setting language to: en_US
+2022-10-04 18:21:25,891 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-04 18:21:25,892 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-04 18:21:26,471 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-04 18:21:27,359 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-04 18:21:28,241 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-04 18:21:28,244 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-04 18:21:28,245 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-04 18:21:28,246 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-04 18:21:28,248 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-04 18:21:28,257 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-04 18:21:28,262 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-04 18:21:28,264 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-04 18:21:28,270 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-04 18:21:28,497 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-04 18:21:28,627 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-04 18:21:31,758 [Dummy-1] INFO: loaded 10 dictionaries in 3.515s
+2022-10-05 18:32:19,592 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-05 18:32:21,573 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:32:22,666 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:32:23,573 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:32:49,430 [Dummy-1] INFO: stopping `ninja_extension` extension
+2022-10-05 18:32:49,433 [Dummy-1] INFO: stopping `plover_cards_hook` extension
+2022-10-05 18:32:49,436 [Dummy-1] ERROR: engine quit failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 143, in run
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 307, in _quit
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 157, in _stop
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 303, in _stop_extensions
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\plover_hook.py", line 38, in stop
+    self.card_suggestions.save()
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 12, in f
+    return func(self, *args, **kwargs)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 37, in save
+    with self.PATH.open("wb") as f:
+  File "pathlib.py", line 1222, in open
+  File "pathlib.py", line 1078, in _opener
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Simone\\AppData\\Local\\plover\\plover\\plover_cards\\card_suggestions.pickle'
+2022-10-05 18:33:23,884 [MainThread] INFO: setting language to: en_US
+2022-10-05 18:33:25,489 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-05 18:33:25,490 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-05 18:33:26,103 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-05 18:33:26,988 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-05 18:33:26,998 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-05 18:33:27,881 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-05 18:33:27,882 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-05 18:33:27,884 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-05 18:33:27,887 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-05 18:33:27,890 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-05 18:33:27,891 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-05 18:33:27,901 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-05 18:33:27,904 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-05 18:33:27,914 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-05 18:33:28,204 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-05 18:33:33,137 [Dummy-1] INFO: loaded 10 dictionaries in 5.256s
+2022-10-05 18:35:22,879 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:37:06,168 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:37:07,202 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:37:09,320 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:37:38,979 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-05 18:37:39,924 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-05 18:38:07,458 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:38:09,093 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:38:10,307 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:38:11,352 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:40:38,796 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:40:40,926 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:40:44,095 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 18:40:46,435 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-05 19:36:20,291 [Dummy-1] ERROR: hook 'translated' callback <bound method Main._on_translated of <plover_ninja.plover_hook.Main object at 0x000002165C340CA0>> failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 558, in _trigger_hook
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\plover_hook.py", line 27, in _on_translated
+    plugin.on_translated(old, new)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\plugins\stroke_efficiency_log.py", line 75, in on_translated
+    self.stroke_efficiency_log.add_stroke(word, gap_between_strokes)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\storage.py", line 137, in add_stroke
+    self.connection.commit()
+sqlite3.OperationalError: database is locked
+2022-10-05 19:47:26,542 [Dummy-1] ERROR: hook 'translated' callback <bound method Main._on_translated of <plover_ninja.plover_hook.Main object at 0x000002165C340CA0>> failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 558, in _trigger_hook
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\plover_hook.py", line 27, in _on_translated
+    plugin.on_translated(old, new)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\plugins\stroke_efficiency_log.py", line 75, in on_translated
+    self.stroke_efficiency_log.add_stroke(word, gap_between_strokes)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_ninja\storage.py", line 137, in add_stroke
+    self.connection.commit()
+sqlite3.OperationalError: database is locked
+2022-10-06 21:44:13,091 [Dummy-1] INFO: stopping `plover_cards_hook` extension
+2022-10-06 21:44:13,136 [Dummy-1] ERROR: engine quit failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 143, in run
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 307, in _quit
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 157, in _stop
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 303, in _stop_extensions
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\plover_hook.py", line 38, in stop
+    self.card_suggestions.save()
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 12, in f
+    return func(self, *args, **kwargs)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 37, in save
+    with self.PATH.open("wb") as f:
+  File "pathlib.py", line 1222, in open
+  File "pathlib.py", line 1078, in _opener
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Simone\\AppData\\Local\\plover\\plover\\plover_cards\\card_suggestions.pickle'
+2022-10-06 21:44:17,618 [Dummy-1] INFO: stopping `ninja_extension` extension
+2022-10-06 21:44:57,076 [MainThread] INFO: setting language to: en_US
+2022-10-06 21:44:58,543 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-06 21:44:58,544 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-06 21:44:59,230 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-06 21:45:00,393 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-06 21:45:00,403 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-06 21:45:01,554 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-06 21:45:01,555 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-06 21:45:01,559 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-06 21:45:01,560 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-06 21:45:01,574 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-06 21:45:01,584 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-06 21:45:01,596 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-06 21:45:01,939 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-06 21:45:01,987 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-06 21:45:02,091 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-06 21:45:06,397 [Dummy-1] INFO: loaded 10 dictionaries in 4.843s
+2022-10-07 09:01:17,036 [Dummy-1] INFO: loaded 10 dictionaries in 0.003s
+2022-10-07 09:01:18,125 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 09:01:20,873 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 09:01:22,027 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-07 09:01:23,532 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 09:18:45,329 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 09:18:48,618 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-07 09:18:52,621 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-07 09:18:53,789 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 09:18:57,061 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:21:20,433 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-07 16:21:21,247 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:21:22,893 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:21:25,115 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:28:28,918 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:28:31,070 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:28:33,806 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:28:35,118 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-07 16:50:42,409 [Dummy-1] INFO: stopping `plover_cards_hook` extension
+2022-10-07 16:50:42,423 [Dummy-1] ERROR: engine quit failed
+Traceback (most recent call last):
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 143, in run
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 307, in _quit
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 157, in _stop
+  File "build/windist/data\Lib\site-packages\plover\engine.py", line 303, in _stop_extensions
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\plover_hook.py", line 38, in stop
+    self.card_suggestions.save()
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 12, in f
+    return func(self, *args, **kwargs)
+  File "C:\Users\Simone\AppData\Local\plover\plover\plugins\win\Python38\site-packages\plover_cards\plover_hook\card_suggestions.py", line 37, in save
+    with self.PATH.open("wb") as f:
+  File "pathlib.py", line 1222, in open
+  File "pathlib.py", line 1078, in _opener
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\Simone\\AppData\\Local\\plover\\plover\\plover_cards\\card_suggestions.pickle'
+2022-10-09 09:51:52,724 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-09 09:51:52,741 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 09:51:53,338 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 09:51:56,571 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 09:51:57,518 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-09 09:51:58,150 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-09 10:19:53,750 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:19:54,215 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:19:56,078 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:19:57,187 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:19:58,915 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:21:37,122 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:21:37,813 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:21:42,069 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:21:43,674 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-09 10:21:44,393 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:23:25,859 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:23:26,816 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:23:27,227 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:23:57,444 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:23:59,871 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:24:00,493 [Dummy-1] INFO: loaded 10 dictionaries in 0.002s
+2022-10-09 10:32:56,608 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:32:57,881 [Dummy-1] INFO: loaded 10 dictionaries in 0.001s
+2022-10-09 10:32:58,488 [Dummy-1] INFO: loaded 10 dictionaries in 0.000s
+2022-10-09 11:28:49,068 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\rh-numpad.json
+2022-10-09 11:28:49,087 [Dummy-1] INFO: loaded 11 dictionaries in 0.019s
+2022-10-09 12:02:59,039 [MainThread] INFO: setting language to: en_US
+2022-10-09 12:02:59,958 [Dummy-1] INFO: set_stroke_filename(C:\Users\Simone\AppData\Local\plover\plover\strokes.log)
+2022-10-09 12:02:59,958 [Dummy-1] INFO: loading system: English Stenotype
+2022-10-09 12:03:00,477 [Dummy-1] INFO: setting machine: Keyboard
+2022-10-09 12:03:01,219 [Dummy-1] INFO: starting `plover_cards_hook` extension
+2022-10-09 12:03:01,226 [Dummy-1] INFO: starting `ninja_extension` extension
+2022-10-09 12:03:02,246 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\rh-numpad.json
+2022-10-09 12:03:02,247 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\code.json
+2022-10-09 12:03:02,248 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\lapwing-base.json
+2022-10-09 12:03:02,249 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\modal.json
+2022-10-09 12:03:02,255 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\vim motion.py
+2022-10-09 12:03:02,258 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-symbols.py
+2022-10-09 12:03:02,261 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\emily-modifiers.py
+2022-10-09 12:03:02,271 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\python.json
+2022-10-09 12:03:02,273 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\user.json
+2022-10-09 12:03:02,276 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\commands.json
+2022-10-09 12:03:02,278 [Dummy-1] INFO: loading dictionary: c:\users\simone\appdata\local\plover\plover\main.json
+2022-10-09 12:03:05,678 [Dummy-1] INFO: loaded 11 dictionaries in 3.432s
+2022-10-09 12:13:17,729 [Dummy-1] INFO: loaded 11 dictionaries in 0.001s
+2022-10-09 12:13:19,501 [Dummy-1] INFO: loaded 11 dictionaries in 0.001s
